@@ -3,7 +3,7 @@ The repository contains the code for the flower image classification using Visio
 
 - Arxiv Paper: [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
 - Blog Post: [What is Vision Transformer](https://idiotdeveloper.com/vision-transformer-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale/) by Idiot Developer
-- YouTube Tutorial: [Vision Transformer Implementation In TensorFlow](https://youtu.be/Fb1xsTXT4P8)
+- YouTube Tutorial: [Vision Transformer Implementation In TensorFlow](https://youtu.be/Ssndsjh1Zqk)
 - Dataset: [Flow Images Dataset](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
 
 ## Architecture
